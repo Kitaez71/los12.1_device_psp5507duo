@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/5507.mk \
-	$(LOCAL_DIR)/omni_5507.mk
+	$(LOCAL_DIR)/lineage_5507.mk
